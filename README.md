@@ -1,4 +1,4 @@
-# Network-layers-Simulation-on-NS2
+# Network Simulation on NS2
 
 **Steps of Executing ns-2 Codes in A Nutshell**
 
